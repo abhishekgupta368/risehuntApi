@@ -14,4 +14,4 @@ mysql-connector-python==8.0.19
 mysqlclient==1.4.6
 numpy==1.16.2
 pandas==0.24.2
-rest_framework==3.11.0
+djangorestframework==3.11.0
